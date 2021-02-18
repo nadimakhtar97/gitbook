@@ -7,4 +7,5 @@
 * [1313. Decompress Run-Length Encoded List](1313.-decompress-run-length-encoded-list.md)
 * [771. Jewels and Stones](771.-jewels-and-stones.md)
 * [938. Range Sum of BST](938.-range-sum-of-bst.md)
+* [1688. Count of Matches in Tournament](1688.-count-of-matches-in-tournament.md)
 
