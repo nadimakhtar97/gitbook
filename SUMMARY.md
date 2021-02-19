@@ -11,6 +11,7 @@
 * [1684. Count the Number of Consistent Strings](problems-solved/1684.-count-the-number-of-consistent-strings.md)
 * [1678. Goal Parser Interpretation](problems-solved/1678.-goal-parser-interpretation.md)
 * [1108. Defanging an IP Address](problems-solved/1108.-defanging-an-ip-address.md)
+* [804. Unique Morse Code Words](problems-solved/804.-unique-morse-code-words.md)
 
 ## PROBLEMS TO DO
 
