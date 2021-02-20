@@ -8,6 +8,7 @@
   * [1252. Cells with Odd Values in a Matrix](problems-solved/to-do/1252.-cells-with-odd-values-in-a-matrix.md)
 * [Solved Problems](problems-solved/solved-problems/README.md)
   * [762. Prime Number of Set Bits in Binary Representation](problems-solved/solved-problems/762.-prime-number-of-set-bits-in-binary-representation.md)
+  * [884. Uncommon Words from Two Sentences](problems-solved/solved-problems/884.-uncommon-words-from-two-sentences.md)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](problems-solved/solved-problems/1455.-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.md)
   * [1304. Find N Unique Integers Sum up to Zero](problems-solved/solved-problems/1304.-find-n-unique-integers-sum-up-to-zero.md)
   * [637. Average of Levels in Binary Tree](problems-solved/solved-problems/637.-average-of-levels-in-binary-tree.md)
