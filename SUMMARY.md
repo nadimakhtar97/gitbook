@@ -12,6 +12,12 @@
 * [1678. Goal Parser Interpretation](problems-solved/1678.-goal-parser-interpretation.md)
 * [1108. Defanging an IP Address](problems-solved/1108.-defanging-an-ip-address.md)
 * [804. Unique Morse Code Words](problems-solved/804.-unique-morse-code-words.md)
+* [1078. Occurrences After Bigram](problems-solved/1078.-occurrences-after-bigram.md)
+* [1725. Number Of Rectangles That Can Form The Largest Square](problems-solved/1725.-number-of-rectangles-that-can-form-the-largest-square.md)
+* [872. Leaf-Similar Trees](problems-solved/872.-leaf-similar-trees.md)
+* [349. Intersection of Two Arrays](problems-solved/349.-intersection-of-two-arrays.md)
+* [637. Average of Levels in Binary Tree](problems-solved/637.-average-of-levels-in-binary-tree.md)
+* [1304. Find N Unique Integers Sum up to Zero](problems-solved/1304.-find-n-unique-integers-sum-up-to-zero.md)
 
 ## PROBLEMS TO DO
 
