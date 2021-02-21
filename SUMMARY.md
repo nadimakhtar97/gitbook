@@ -24,4 +24,5 @@
   * [771. Jewels and Stones](problems-solved/solved-problems/771.-jewels-and-stones.md)
   * [938. Range Sum of BST](problems-solved/solved-problems/938.-range-sum-of-bst.md)
   * [1688. Count of Matches in Tournament](problems-solved/solved-problems/1688.-count-of-matches-in-tournament.md)
+  * [575. Distribute Candies](problems-solved/solved-problems/575.-distribute-candies.md)
 
