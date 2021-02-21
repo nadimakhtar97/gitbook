@@ -7,6 +7,7 @@
 * [TO DO](problems-solved/to-do/README.md)
   * [1252. Cells with Odd Values in a Matrix](problems-solved/to-do/1252.-cells-with-odd-values-in-a-matrix.md)
 * [Solved Problems](problems-solved/solved-problems/README.md)
+  * [1768. Merge Strings Alternately](problems-solved/solved-problems/1768.-merge-strings-alternately.md)
   * [762. Prime Number of Set Bits in Binary Representation](problems-solved/solved-problems/762.-prime-number-of-set-bits-in-binary-representation.md)
   * [884. Uncommon Words from Two Sentences](problems-solved/solved-problems/884.-uncommon-words-from-two-sentences.md)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](problems-solved/solved-problems/1455.-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.md)
@@ -24,5 +25,6 @@
   * [771. Jewels and Stones](problems-solved/solved-problems/771.-jewels-and-stones.md)
   * [938. Range Sum of BST](problems-solved/solved-problems/938.-range-sum-of-bst.md)
   * [1688. Count of Matches in Tournament](problems-solved/solved-problems/1688.-count-of-matches-in-tournament.md)
+  * [859. Buddy Strings](problems-solved/solved-problems/859.-buddy-strings.md)
   * [575. Distribute Candies](problems-solved/solved-problems/575.-distribute-candies.md)
 
