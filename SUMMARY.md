@@ -7,6 +7,8 @@
 * [TO DO](problems-solved/to-do/README.md)
   * [1252. Cells with Odd Values in a Matrix](problems-solved/to-do/1252.-cells-with-odd-values-in-a-matrix.md)
 * [Solved Problems](problems-solved/solved-problems/README.md)
+  * [1475. Final Prices With a Special Discount in a Shop](problems-solved/solved-problems/1475.-final-prices-with-a-special-discount-in-a-shop.md)
+  * [1302. Deepest Leaves Sum](problems-solved/solved-problems/1302.-deepest-leaves-sum.md)
   * [1370. Increasing Decreasing String](problems-solved/solved-problems/1370.-increasing-decreasing-string.md)
   * [1374. Generate a String With Characters That Have Odd Counts](problems-solved/solved-problems/1374.-generate-a-string-with-characters-that-have-odd-counts.md)
   * [728. Self Dividing Numbers](problems-solved/solved-problems/728.-self-dividing-numbers.md)
